@@ -12,7 +12,7 @@ d) Delete Images
 The Video demo is attached with the code which shows the working of the application. However, In order to run the application on local host following steps need to be performed: -
 
 a) Open two shells one for client and other for the server 
-b) Mavigate to client and server directory and type npm install in both to install the dependencies
+b) Navigate to client and server directory and type npm install in both to install the dependencies
 c) Now, first run the server from server shell using npm start.After that run client from client shell using npm start
 d) The application will start running on the localhost . 
 e) The admin account has been created by default
