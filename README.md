@@ -1,1 +1,0 @@
-# ShopifyIntern2021
